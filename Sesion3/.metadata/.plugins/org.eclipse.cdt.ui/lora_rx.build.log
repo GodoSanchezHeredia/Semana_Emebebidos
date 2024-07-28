@@ -1,0 +1,10 @@
+12:26:06 **** Incremental Build of configuration Debug for project lora_rx ****
+make -j4 all 
+arm-none-eabi-size   lora_rx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11544	     40	   1816	  13400	   3458	lora_rx.elf
+Finished building: default.size.stdout
+ 
+
+12:26:07 Build Finished. 0 errors, 0 warnings. (took 932ms)
+
